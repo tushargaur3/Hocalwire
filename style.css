@@ -33,12 +33,12 @@
     width: 95%;
     position: absolute;
     font-size: large;
-    top: 85%;
+    top: 75%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
-    padding: 25px 5px 70px 5px;
+    padding: 10px;
     text-align: center;
 }
 
@@ -115,6 +115,6 @@
 
     .text-over-image {
         font-size: small;
-        padding: 5px;
+        top: 82%;
     }
 }
